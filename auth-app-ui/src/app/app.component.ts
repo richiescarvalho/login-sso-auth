@@ -20,6 +20,6 @@ export class AppComponent {
   }
 
   onSubmit() {
-    throw new Error('Method not implemented.');
+    
   }
 }
